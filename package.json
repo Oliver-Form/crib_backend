@@ -1,0 +1,15 @@
+{
+  "name": "crib_backend",
+  "version": "1.0.0",
+  "description": "the backend for crib, the house management app",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "@nestjs/cli": "^10.4.9"
+  }
+}
